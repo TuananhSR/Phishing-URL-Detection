@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Directory Tree 
 ```
 ├── pickle
-│   ├── model.pkl
+│   ├── model2.pkl
 ├── static
 │   ├── styles.css
 ├── templates
@@ -32,8 +32,8 @@ pip install -r requirements.txt
 ├── Phishing URL Detection.ipynb
 ├── Procfile
 ├── README.md
-├── app.py
-├── feature.py
+├── app2.py
+├── feature3.py
 ├── phishing.csv
 ├── requirements.txt
 
